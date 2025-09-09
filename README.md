@@ -1,3 +1,3 @@
 # linux_fromzero
 
-- name : jong hyun park
+- name : park bum jin
